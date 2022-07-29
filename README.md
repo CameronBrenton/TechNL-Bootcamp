@@ -1,5 +1,4 @@
 # TechNL-Bootcamp
-You can put a description here!
 
 Something for students to clone, to get familiar with git.
 
