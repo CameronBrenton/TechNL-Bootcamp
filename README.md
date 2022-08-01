@@ -2,7 +2,7 @@
 
 Something for students to clone, to get familiar with git.
 
-To clone this repository, you're going to want to try the following inside your terminal on Cloud9:
+To clone this repository, you're going to want to try the following inside your terminal in PyCharm:
 
 git clone https://github.com/roy-keyin/student_task_repo_1.git
 
